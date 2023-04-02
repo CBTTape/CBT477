@@ -1,0 +1,8 @@
+2023-04-02 14:27:16.963836 - Initialized conversion of CBT477
+2023-04-02 14:27:17.020340 - Received CBT.V504.FILE477.PDS from FILE477.XMI 
+2023-04-02 14:27:17.023114 - Found $$$DOC.txt (text/plain) in CBT.V504.FILE477.PDS, moved to PDS/$$$DOC
+2023-04-02 14:27:17.024159 - Found $$USES.txt (text/plain) in CBT.V504.FILE477.PDS, moved to PDS/$$USES
+2023-04-02 14:27:17.025274 - Found $RUN.jcl (text/plain) in CBT.V504.FILE477.PDS, moved to PDS/$RUN
+2023-04-02 14:27:17.026505 - Found $RUN1.jcl (text/plain) in CBT.V504.FILE477.PDS, moved to PDS/$RUN1
+2023-04-02 14:27:17.027675 - Found @FILE477.txt (text/plain) in CBT.V504.FILE477.PDS, moved to PDS/@FILE477
+2023-04-02 14:27:17.028749 - Found AWSUTIL.jcl (text/plain) in CBT.V504.FILE477.PDS, moved to PDS/AWSUTIL
